@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  OG card source, set in the site's real fonts.
+  The PNG next to this file was rendered with substitute fonts (no network in the
+  build box). To get a pixel-perfect version: open this SVG in a browser with the
+  Google Fonts loaded, or drop it into Figma with Familjen Grotesk / Newsreader /
+  IBM Plex Mono installed, then export at 1200x630 as opengraph-image.png.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" font-kerning="normal">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400..700&amp;family=Newsreader:opsz,wght@6..72,300..600&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap');
+      .mono   { font-family:'IBM Plex Mono', monospace; }
+      .serif  { font-family:'Newsreader', Georgia, serif; }
+      .disp   { font-family:'Familjen Grotesk', system-ui, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" fill="#EEF0EA"/>
+  <rect width="1200" height="5" fill="#1B34C4"/>
+
+  <text class="mono" x="88" y="112" font-size="19" letter-spacing="1.9" fill="#6C7068">BACKEND · WEB3 · DEVELOPER TOOLING</text>
+
+  <text class="disp" x="88" y="222" font-size="98" font-weight="600" letter-spacing="-2.4" fill="#15171B">Atharv Chauhan</text>
+
+  <text class="serif" x="88" y="316" font-size="33" fill="#3A3E44">I build backend systems, on-chain apps,</text>
+  <text class="serif" x="88" y="362" font-size="33" fill="#3A3E44">and the tooling that sits between them.</text>
+
+  <g class="mono" font-size="18" fill="#1B34C4">
+    <rect x="88"  y="402" width="207" height="40" rx="20" fill="none" stroke="#C3CAF0"/>
+    <text x="105" y="427">60+ APIs shipped</text>
+    <rect x="307" y="402" width="261" height="40" rx="20" fill="none" stroke="#C3CAF0"/>
+    <text x="324" y="427">ClawRoute · 80+ stars</text>
+    <rect x="580" y="402" width="196" height="40" rx="20" fill="none" stroke="#C3CAF0"/>
+    <text x="597" y="427">3 yrs freelance</text>
+  </g>
+
+  <line x1="88" y1="500" x2="1112" y2="500" stroke="#D5D9CE"/>
+
+  <text class="mono" x="88" y="546" font-size="25" fill="#15171B">0xatharv.me</text>
+
+  <!-- miniature of the site's overlap timeline -->
+  <g>
+    <rect x="820.6" y="516" width="247.5" height="12" rx="3" fill="none" stroke="#A9AEA2"/>
+    <rect x="782"   y="534" width="236.6" height="12" rx="3" fill="#1B34C4"/>
+    <rect x="980"   y="552" width="38.6"  height="12" rx="3" fill="#1B34C4"/>
+    <text class="mono" x="782"  y="590" font-size="18" fill="#6C7068">2023</text>
+    <text class="mono" x="1112" y="590" font-size="18" fill="#6C7068" text-anchor="end">2027</text>
+  </g>
+</svg>
